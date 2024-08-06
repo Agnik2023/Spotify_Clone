@@ -22,4 +22,4 @@ Welcome to the **Spotify Clone** project! 🎵 This is a web-based music player 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/spotify-clone.git
+   git clone https://github.com/Agnik2023/spotify-clone.git
